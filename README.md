@@ -1,5 +1,5 @@
 # Timenow app
-
+1
 Install nginx web server on your virtual machine and configure hosting of the timenow web app: 
 - configure hosting of the static content from folder /frontend (on VM it should be stored in the folder: '/var/www/timenow-fe')
 - run api manually on the VM and configure reverse proxy for it
